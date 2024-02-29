@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+}
+
+.card {
+    margin: 10px;
+    width: 500px;
+    height: fit-content;
+    background-color: aliceblue;
+    border: 5px solid black;
+    border-radius: 50px;
+    
+}
+
+.box {
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+.texto {
+    color: black;
+    font-family: monospace;
+    margin-left: 15px;
+    font-size: 15px;
+}
+.title {
+    font-size: 30px;
+}
+img {
+    width: 100%;
+    height: 100%;
+
+}
